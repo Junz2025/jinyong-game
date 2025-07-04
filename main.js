@@ -1,0 +1,1 @@
+// Placeholder JS file for Pygbag build
